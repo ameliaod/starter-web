@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Amelia O'Duffy	amelia@amelia.com
 
 # THANKS
 
